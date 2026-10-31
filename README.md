@@ -35,7 +35,7 @@ I hold a BS in Computer Science (Artificial Intelligence track) from Cebu Instit
 
 ## Toolbox
 
-[![Toolbox](https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,fastapi,django,postgres,supabase,tailwind,docker,githubactions,vercel,gcp,git&perline=8)](https://skillicons.dev)
+![Toolbox: Anthropic, OpenAI, Hugging Face, LangChain, Gemini, Python, TypeScript, JavaScript, React, Next.js, Node.js, FastAPI, Django, PostgreSQL, Supabase, Tailwind CSS, Docker, GitHub Actions, Vercel, Google Cloud, Git, n8n, Zapier, Firebase, Streamlit, scikit-learn, TensorFlow, Kotlin, Selenium, pandas](./toolbox.svg)
 
 &nbsp;
 
