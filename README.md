@@ -21,15 +21,14 @@ I hold a BS in Computer Science (Artificial Intelligence track) from Cebu Instit
 
 &nbsp;
 
-## Selected public projects
+## Selected public work
 
-| Project | Description |
-| --- | --- |
-| [**ai_health_coach**](https://github.com/ChristopherCastro69/ai_health_coach) | Full-stack AI health coach application, containerised with Docker. |
-| [**Loan-Checker-AI**](https://github.com/ChristopherCastro69/Loan-Checker-AI) | Loan-eligibility classifier with 85% accuracy. [Live demo](https://loan-checker-ai.streamlit.app/) |
-| [**HeartAlert**](https://github.com/ChristopherCastro69/HeartAlert) | Heart-failure risk prediction model. [Live demo](https://heartpredictiongpt.streamlit.app/) |
-| [**Webscraping_Selenium**](https://github.com/ChristopherCastro69/Webscraping_Selenium) | Automated job-listing extraction for data analysis. |
-| [**UnShelf**](https://github.com/ChristopherCastro69/UnShelf) | Food-saver e-commerce Android application (Kotlin, Firebase). |
+| Project | Role | Description |
+| --- | --- | --- |
+| [**HeartAlert**](https://github.com/ChristopherCastro69/HeartAlert) | Author | Heart-failure risk prediction model built with scikit-learn and TensorFlow. [Live demo](https://heartpredictiongpt.streamlit.app/) |
+| [**lokalsyon**](https://github.com/ChristopherCastro69/lokalsyon) | Author | Delivery-location app for small sellers: customers pin their location with landmark photos, and sellers manage orders and delivery routes. Next.js, Supabase. [Live](https://lokalsyon.vercel.app) |
+| [**getcebby/cebby**](https://github.com/getcebby/cebby) | Contributor | Public discovery layer for Cebu tech events. Built event filtering by month and year, and UI features. [getcebby.com](https://getcebby.com) |
+| [**pizzapy-website-v3**](https://github.com/ChristopherCastro69/pizzapy-website-v3) | Contributor | Official website of PizzaPy, the Cebu Python community. Recognised as Best Overall Open Source Contributor, Cebu Hacktoberfest 2024. |
 
 &nbsp;
 

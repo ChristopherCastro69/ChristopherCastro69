@@ -84,9 +84,9 @@
     <text x="890" y="82" text-anchor="end" class="mono" font-size="11" fill="#71717a">~/projects</text>
     <line x1="640" y1="96" x2="912" y2="96" stroke="#ffffff" stroke-opacity=".08"/>
     <g class="mono" font-size="14" fill="#d4d4d8">
-      <circle cx="664" cy="121" r="4" fill="#a78bfa"/><text x="680" y="126">ai_health_coach</text>
-      <circle cx="664" cy="153" r="4" fill="#a78bfa"/><text x="680" y="158">Loan-Checker-AI</text>
-      <circle cx="664" cy="185" r="4" fill="#a78bfa"/><text x="680" y="190">HeartAlert</text>
+      <circle cx="664" cy="121" r="4" fill="#a78bfa"/><text x="680" y="126">HeartAlert</text>
+      <circle cx="664" cy="153" r="4" fill="#a78bfa"/><text x="680" y="158">lokalsyon</text>
+      <circle cx="664" cy="185" r="4" fill="#a78bfa"/><text x="680" y="190">cebby</text>
     </g>
   </g></g>
 
